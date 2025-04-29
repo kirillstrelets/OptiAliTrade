@@ -52,7 +52,7 @@ All transaction fees are taken into account to ensure the operation is break-eve
 
 ### 📜 License
 
-OptiAliTrade is licensed under the [MIT License](LICENSE).
+OptiAliTrade is licensed under the [MIT License](https://github.com/kirillstrelets/OptiAliTrade/blob/master/LICENSE.txt)
 
 ### ✉️ Contact
 
@@ -107,7 +107,7 @@ OptiAliTrade is licensed under the [MIT License](LICENSE).
 
 ### 📝 Лицензия
 
-Распространяется по лицензии [MIT](LICENSE).  
+Распространяется по лицензии [MIT](https://github.com/kirillstrelets/OptiAliTrade/blob/master/LICENSE.txt)  
 
 ### ✉️ Контакты
 
